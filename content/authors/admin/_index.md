@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Geert Litjens
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Geert Litjens
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Geert
+last_name: Litjens
 
 # Status emoji
 status:
@@ -20,37 +20,35 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Full Professor of AI for Medical Imaging in Radiology and Pathology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Radboud University Medical Center
+    url: https://www.radboudumc.nl
+  - name: Oncode Institute
+    url: https://oncodeinstitute.nl/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: 'mailto:geert.litjens@radboudumc.nl'
+    label: E-mail
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/GeertLitjens
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/geertlitjens
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/geert-litjens/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.nl/citations?user=neXK8tMAAAAJ
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computerized Detection of Prostate Cancer in Multi-Parametric MRI
+    institution: Radboud University Medical Center
+    date_start: 2010-01-01
+    date_end: 2015-01-23
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -137,12 +135,14 @@ skills:
         icon: camera
 
 languages:
+  - name: Dutch
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
+  - name: German
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 20
 
 # Awards.
 #   Add/remove as many awards below as you like.
