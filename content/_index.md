@@ -10,10 +10,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text:
-    design:
-      css_class: dark
-      background:
-        color: black
+#    design:
+#      css_class: dark
+#      background:
+#        color: black
 #        image:
 #          # Add your image background to `assets/media/`.
 #          filename: li-yang-5h_dMuX_7RE-unsplash.webp

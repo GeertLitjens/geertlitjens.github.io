@@ -2,16 +2,13 @@
 # Display name
 title: Geert Litjens
 
-# Name pronunciation (optional)
-name_pronunciation: Geert Litjens
-
 # Full name (for SEO)
 first_name: Geert
 last_name: Litjens
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,28 +58,21 @@ education:
     institution: Eindhoven University of Technology
     date_end: 2006
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Full Professor of AI for Medical Imaging in Radiology and Pathology
+    company_name: Radboud University Medical Center
+    company_url: 'https://www.radboudumc.nl'
+    date_start: 2023-05-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Assistant Professor in Computational Pathology
+    company_name: Radboud University Medical Center
+    company_url: 'https://www.radboudumc.nl'
+    date_start: 2016-05-01
+    date_end: 2023-04-30
+  - position: Postdoctoral Researcher in Computational Pathology
+    company_name: University of Heidelberg
+    company_url: 'https://www.uni-heidelberg.de/'
+    date_start: 2015-05-01
+    date_end: 2016-04-30
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -91,7 +81,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
       - name: Data Science
         description: ''
