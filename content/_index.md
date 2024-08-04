@@ -14,14 +14,14 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.4
-          size: cover
-          position: center
-          parallax: false
+#        image:
+#          # Add your image background to `assets/media/`.
+#          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+#          filters:
+#            brightness: 0.4
+#          size: cover
+#          position: center
+#          parallax: false
   - block: stats
     content:
       items:
