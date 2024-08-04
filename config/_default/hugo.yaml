@@ -5,6 +5,7 @@
 
 title: Geert Litjens # Website name
 baseURL: 'https://www.geertlitjens.nl/' # Website URL
+copyright: '&copy; 2019'
 
 ############################
 ## LANGUAGE

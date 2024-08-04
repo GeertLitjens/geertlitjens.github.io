@@ -24,6 +24,10 @@ role: Full Professor of AI for Medical Imaging in Radiology and Pathology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Diagnostic Image Analysis Group
+    url: https://www.diagnijmegen.nl
+  - name: Computational Pathology Group
+    url: https://www.computationalpathologygroup.eu
   - name: Radboud University Medical Center
     url: https://www.radboudumc.nl
   - name: Oncode Institute
@@ -45,37 +49,17 @@ profiles:
     url: https://scholar.google.nl/citations?user=neXK8tMAAAAJ
 
 education:
-  - area: PhD Computerized Detection of Prostate Cancer in Multi-Parametric MRI
+  - area: PhD in Medical Sciences
     institution: Radboud University Medical Center
     date_start: 2010-01-01
     date_end: 2015-01-23
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: Thesis on Computerized Detection of Prostate Cancer in Multi-Parametric MRI
+  - area: MSc in Biomedical Image Analysis
+    institution: Eindhoven University of Technology
+    date_end: 2010
+  - area: BSc in Biomedical Engineering
+    institution: Eindhoven University of Technology
+    date_end: 2006
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin

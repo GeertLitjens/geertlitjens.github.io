@@ -15,10 +15,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo résumé theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: "Geert's blog on his research and other interests."
+    twitter: 'GeertLitjens'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-139145569-1'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -32,10 +32,10 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: "Chien Shiung Wu"
+      text: "Geert Litjens"
 
 # Site footer
 footer:
@@ -50,11 +50,11 @@ footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
 
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
