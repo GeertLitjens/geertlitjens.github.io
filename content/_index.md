@@ -55,9 +55,9 @@ sections:
 #    design:
 #      columns: '1'
   - block: collection
+    id: posts
     content:
       title: Recent Posts
-      id: posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -84,9 +84,9 @@ sections:
       #spacing:
       #  padding: [0, 0, 0, 0]
   - block: collection
+    id: publications      
     content:
       title: Recent Publications
-      id: publications      
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

@@ -7,21 +7,18 @@
   - name: Posts
     url: /#posts
     weight: 1
-  - name: Projects
-    url: '#projects'
-    weight: 2
-  - name: Media
-    url: '#media'
-    weight: 3
-  - name: Presentations
-    url: '#presentations'
-    weight: 4
   - name: Publications
     url: /#publications
+    weight: 2
+  - name: Presentations
+    url: '#presentations'
+    weight: 3
+  - name: Media
+    url: '#media'
+    weight: 4
+  - name: Projects
+    url: '#projects'
     weight: 5
-  - name: About
-    url: '#about'
-    weight: 6
   - name: CV
-    url: cv
-    weight: 7
+    url: experience
+    weight: 6
