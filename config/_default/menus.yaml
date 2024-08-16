@@ -5,7 +5,7 @@
 
  main:
   - name: Posts
-    url: '#posts'
+    url: /#posts
     weight: 1
   - name: Projects
     url: '#projects'
@@ -17,7 +17,7 @@
     url: '#presentations'
     weight: 4
   - name: Publications
-    url: '#publications'
+    url: /#publications
     weight: 5
   - name: About
     url: '#about'

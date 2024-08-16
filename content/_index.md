@@ -41,16 +41,16 @@ sections:
 #      # Reduce spacing
 #      spacing:
 #        padding: [0, 0, 0, 0]
-  - block: markdown
-    content:
-      title: 'Welcome 👋'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
-    design:
-      columns: '1'
+#  - block: markdown
+#    content:
+#      title: 'Welcome 👋'
+#      subtitle: ''
+#      text: |-
+#        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+#
+#        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+#    design:
+#      columns: '1'
   - block: collection
     content:
       title: Recent Posts
