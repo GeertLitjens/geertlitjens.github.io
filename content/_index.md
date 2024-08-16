@@ -9,7 +9,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text:
+      text: |-
+        Geert Litjens is full professor of Artificial Intelligence for analysis of medical images in radiology and pathology at Radboud University Medical Center and co-chairs the Computation Pathology Group within the Diagnostic Image Analysis Group. His work focusses on application of modern machine learning methods to oncological pathology. Furthermore, he leads and particaptes in several research project bridging the gap between medical specialties such as in prostate and pancreatic cancer. Last, within the European BIGPICTURE project he leads the work package on artificial intelligence.  
 #    design:
 #      css_class: dark
 #      background:
@@ -53,6 +54,7 @@ sections:
   - block: collection
     content:
       title: Recent Posts
+      id: posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -76,11 +78,12 @@ sections:
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      #spacing:
+      #  padding: [0, 0, 0, 0]
   - block: collection
     content:
       title: Recent Publications
+      id: publications      
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
