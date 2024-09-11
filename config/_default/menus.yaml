@@ -10,8 +10,8 @@
   - name: Publications
     url: /#publications
     weight: 2
-  - name: Presentations
-    url: '#presentations'
+  - name: Talks
+    url: '#talks'
     weight: 3
   - name: Media
     url: '#media'
