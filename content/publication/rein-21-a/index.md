@@ -1,9 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'Common Limitations of Image Processing Metrics: A Picture Story'
-subtitle: ''
-summary: ''
 authors:
 - Annika Reinke
 - Matthias Eisenmann
@@ -39,32 +35,11 @@ authors:
 - Annette Kopp-Schneider
 - Paul Jäger
 - Lena Maier-Hein
-tags:
-- cs.CV
-- eess.IV
-categories: []
 date: '2021-04-01'
-lastmod: 2022-01-11T13:43:08+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-11T12:43:07.646097Z'
+publishDate: '2024-09-11T12:09:39.006497Z'
 publication_types:
-- '4'
+- article-journal
+publication: '*arXiv:2104.05642*'
 abstract: While the importance of automatic image analysis is increasing at an enormous
   pace, recent meta-research revealed major flaws with respect to algorithm validation.
   Specifically, performance metrics are key for objective, transparent and comparative
@@ -76,7 +51,9 @@ abstract: While the importance of automatic image analysis is increasing at an e
   metrics commonly applied in the field of image analysis. The current version is
   based on a Delphi process on metrics conducted by an international consortium of
   image analysis experts.
-publication: '*arXiv:2104.05642*'
+tags:
+- cs.CV
+- eess.IV
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2104.05642
