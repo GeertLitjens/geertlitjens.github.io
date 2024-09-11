@@ -1,6 +1,10 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Artificial intelligence for diagnosis and Gleason grading of prostate cancer:
   the PANDA challenge'
+subtitle: ''
+summary: ''
 authors:
 - Wouter Bulten
 - Kimmo Kartasalo
@@ -90,12 +94,30 @@ authors:
 - Hong-Seok Lee
 - Jeonghyuk Park
 - the PANDA challenge consortium
+tags: []
+categories: []
 date: '2022-01-01'
-publishDate: '2024-07-30T09:27:10.193679Z'
+lastmod: 2022-01-20T16:49:27+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-20T15:49:26.665921Z'
 publication_types:
-- article-journal
-publication: '*Nat Med*'
-doi: 10.1038/s41591-021-01620-2
+- '3'
 abstract: Artificial intelligence (AI) has shown promise for diagnosing prostate cancer
   in biopsies. However, results have been limited to individual studies, lacking validation
   in multinational settings. Competitions have been shown to be accelerators for medical
@@ -111,7 +133,7 @@ abstract: Artificial intelligence (AI) has shown promise for diagnosing prostate
   Successful generalization across different patient populations, laboratories and
   reference standards, achieved by a variety of algorithmic approaches, warrants evaluating
   AI-based Gleason grading in prospective clinical trials.
-links:
-- name: URL
-  url: https://doi.org/10.1038/s41591-021-01620-2
+publication: '*Nat Med*'
+url_pdf: https://doi.org/10.1038/s41591-021-01620-2
+doi: 10.1038/s41591-021-01620-2
 ---

@@ -1,6 +1,9 @@
 ---
 title: Automatic segmentation of histopathological slides from renal allograft biopsies
   using artificial intelligence
+date: '2017-01-01'
+draft: true
+publishDate: '2020-10-21T09:26:40.693089Z'
 authors:
 - Meyke Hermsen
 - Thomas de Bel
@@ -11,11 +14,8 @@ authors:
 - Bart Smeets
 - Luuk Hilbrands
 - Jeroen van der Laak
-date: '2017-01-01'
-publishDate: '2024-07-30T09:27:10.074690Z'
 publication_types:
-- paper-conference
-publication: '*Dutch Federation of Nephrology (NfN) Fall Symposium*'
+- '1'
 abstract: 'Objective: Histopathological analysis of renal biopsies depends on the
   identification and assessment of specific histological structures. Both in research
   and routine diagnostics, this analysis can be time-consuming and suffer from observer
@@ -57,4 +57,7 @@ abstract: 'Objective: Histopathological analysis of renal biopsies depends on th
   quantitative, spatial and morphometric information from renal tissue in an objective,
   reproducible, high-scale fashion supporting diagnostic decisions based on quantitative
   measures.'
+featured: false
+publication: '*Dutch Federation of Nephrology (NfN) Fall Symposium*'
 ---
+

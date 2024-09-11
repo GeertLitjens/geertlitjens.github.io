@@ -1,16 +1,38 @@
 ---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
 title: 'Lymph node detection in MR Lymphography: false positive reduction using multi-view
   convolutional neural networks'
+subtitle: ''
+summary: ''
 authors:
 - Oscar A. Debats
 - Geert J. S. Litjens
 - Henkjan J. Huisman
+tags: []
+categories: []
 date: '2019-11-01'
-publishDate: '2024-07-30T09:27:10.067366Z'
+lastmod: 2020-10-21T12:24:20+02:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2020-10-21T10:24:19.793979Z'
 publication_types:
-- article-journal
-publication: '*PeerJ*'
-doi: 10.7717/peerj.8052
+- '3'
 abstract: 'To investigate whether multi-view convolutional neural networks can improve
   a fully automated lymph node detection system for pelvic MR Lymphography (MRL) images
   of patients with prostate cancer. A fully automated computer-aided detection (CAD)
@@ -36,4 +58,6 @@ abstract: 'To investigate whether multi-view convolutional neural networks can i
   orthogonal views are sufficient. At the achieved level of performance, CAD for MRL
   may help speed up finding lymph nodes and assessing them for potential metastatic
   involvement.'
+publication: '*PeerJ*'
+doi: 10.7717/peerj.8052
 ---
