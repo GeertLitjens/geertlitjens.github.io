@@ -83,7 +83,7 @@ sections:
       # Reduce spacing
       #spacing:
       #  padding: [0, 0, 0, 0]
-  - block: collection
+- block: collection
     id: publications      
     content:
       title: Recent Publications
