@@ -61,5 +61,3 @@ url_code = ""
 Clinical pathology as at the forefront of a digital revolution. In addition to the digital workflow, pathologists will also come into contact with machine learning algorithms aimed at improving their diagnostic accuracy and efficiency. In this presentation I highlight some applications which will be among the first to see use in clinical practice.
 
 This presentation showed applications of deep learning for diagnostic histopathology. The slides are shown below. Note that some slides are a bit scrambled due to the conversion from PowerPoint to Google Slides.
-
-# {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vShDh2ln7_BMyIhnBJzjdLw71yzr9ojssfkyiuddkjpg7sZpN_6dbpw2JTEtJnPEMpWJf1zJUA6eeGR/embed?start=false&loop=false&delayms=3000" >}}
