@@ -1,12 +1,11 @@
 ---
 title: Pharmacokinetic modeling in breast cancer MRI
-date: '2009-01-01'
-draft: false
-publishDate: '2020-10-21T09:26:40.845088Z'
 authors:
 - Geert Litjens
+date: '2009-01-01'
+publishDate: '2024-09-11T12:09:38.917097Z'
 publication_types:
-- '9'
+- thesis
 abstract: 'Breast cancer is a disease which impacts the lives of thousands of people.
   In the entire world over half a million people die due to breast cancer every year,
   mostly women. However, when breast cancer is detected in the early stages of disease
@@ -78,7 +77,4 @@ abstract: 'Breast cancer is a disease which impacts the lives of thousands of pe
   when compared to malignant tissues. Another question was if we were able to cluster
   different cancer types according to pharmacokinetic parameters, but we have too
   little data to support that claim.'
-featured: false
-publication: ''
 ---
-

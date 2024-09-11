@@ -1,10 +1,6 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Artificial Intelligence for Diagnosis and Gleason Grading of Prostate Cancer
   in Biopsies-Current Status and Next Steps.
-subtitle: ''
-summary: ''
 authors:
 - Kimmo Kartasalo
 - Wouter Bulten
@@ -23,31 +19,12 @@ authors:
 - Pekka Ruusuvuori
 - Lars Egevad
 - Martin Eklund
-tags:
-- Artificial intelligence; Gleason grading; Histopathology; Prostate cancer; Uropathology
-categories: []
 date: '2021-07-01'
-lastmod: 2022-01-11T13:43:06+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-11T12:43:05.548457Z'
+publishDate: '2024-09-11T12:09:38.989541Z'
 publication_types:
-- '3'
+- article-journal
+publication: '*Eur Urol Focus*'
+doi: 10.1016/j.euf.2021.07.002
 abstract: 'Diagnosis and Gleason grading of prostate cancer in biopsies are critical
   for the clinical management of men with prostate cancer. Despite this, the high
   grading variability among pathologists leads to the potential for under- and overtreatment.
@@ -63,6 +40,6 @@ abstract: 'Diagnosis and Gleason grading of prostate cancer in biopsies are crit
   Gleason grading on par with experienced uropathologists, more work is needed to
   ensure the accuracy of results from AI systems in diverse settings across different
   patient populations, digitization platforms, and pathology laboratories.'
-publication: '*Eur Urol Focus*'
-doi: 10.1016/j.euf.2021.07.002
+tags:
+- Artificial intelligence; Gleason grading; Histopathology; Prostate cancer; Uropathology
 ---

@@ -1,41 +1,18 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Using deep learning for quantification of cellularity and cell lineages in
   bone marrow biopsies and comparison to normal age-related variation.
-subtitle: ''
-summary: ''
 authors:
 - Leander van Eekelen
 - Hans Pinckaers
 - Michiel van den Brand
 - Konnie M. Hebeda
 - Geert Litjens
-tags:
-- Bone marrow; cellularity; deep learning; digital pathology; segmentation
-categories: []
 date: '2021-11-01'
-lastmod: 2022-01-11T13:43:05+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-11T12:43:00.029432Z'
+publishDate: '2024-09-11T12:09:38.982016Z'
 publication_types:
-- '3'
+- article-journal
+publication: '*Pathology*'
+doi: 10.1016/j.pathol.2021.07.011
 abstract: Cellularity estimation forms an important aspect of the visual examination
   of bone marrow biopsies. In clinical practice, cellularity is estimated by eye under
   a microscope, which is rapid, but subjective and subject to inter- and intraobserver
@@ -56,6 +33,6 @@ abstract: Cellularity estimation forms an important aspect of the visual examina
   age in our cohort. The mean cellularity began at approximately 50% in the third
   decade of life and then decreased ±2% per decade to 40% in the seventh and eighth
   decade, but the normal range was very wide (30-70%).
-publication: '*Pathology*'
-doi: 10.1016/j.pathol.2021.07.011
+tags:
+- Bone marrow; cellularity; deep learning; digital pathology; segmentation
 ---
