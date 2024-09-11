@@ -1,15 +1,12 @@
-+++
-title = "Publications"
-date = 2017-01-01T00:00:00
+---
+title: Publications
+cms_exclude: true
 
-# List format.
-#   0 = Simple
-#   1 = Detailed
-#   2 = Stream
-view = 4
+# View.
+view: citation
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
+---
