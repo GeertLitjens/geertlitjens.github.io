@@ -1,15 +1,11 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: The Medical Segmentation Decathlon
-subtitle: ''
-summary: ''
 authors:
 - Michela Antonelli
 - Annika Reinke
 - Spyridon Bakas
 - Keyvan Farahani
-- Annette Kopp-Schneider
+- ' AnnetteKopp-Schneider'
 - Bennett A. Landman
 - Geert Litjens
 - Bjoern Menze
@@ -64,34 +60,11 @@ authors:
 - Amber L. Simpson
 - Lena Maier-Hein
 - M. Jorge Cardoso
-tags:
-- eess.IV
-- cs.CV
-- cs.LG
-- 68T07
-categories: []
 date: '2021-06-01'
-lastmod: 2022-01-11T13:43:07+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2022-01-11T12:43:06.598145Z'
+publishDate: '2024-09-11T12:09:38.997129Z'
 publication_types:
-- '4'
+- article-journal
+publication: '*arXiv:2106.05735*'
 abstract: 'International challenges have become the de facto standard for comparative
   assessment of image analysis algorithms given a specific task. Segmentation is so
   far the most widely investigated medical image processing task, but the various
@@ -113,7 +86,11 @@ abstract: 'International challenges have become the de facto standard for compar
   and generalize well when retrained on unseen tasks; (2) consistent algorithmic performance
   across multiple tasks is a strong surrogate of algorithmic generalizability; (3)
   the training of accurate AI segmentation models is now commoditized to non AI experts.'
-publication: '*arXiv:2106.05735*'
+tags:
+- eess.IV
+- cs.CV
+- cs.LG
+- 68T07
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2106.05735
